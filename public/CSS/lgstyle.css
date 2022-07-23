@@ -1,0 +1,34 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-style: sans-serif;
+
+
+}
+body {
+	background-color: azure ;
+	background-size: cover;
+	
+}
+
+.form {
+	position: absolute;
+	top: 35%;
+	left: 25%;
+	background-color: transparent;
+	border-radius: 15px;
+	text-align: left;
+	color: rgb(26, 8, 8);
+	
+}
+.Rform {
+	position: absolute;
+	top: 35%;
+	left: 45%;
+	background-color: transparent;
+	border-radius: 15px;
+	text-align: left;
+	color: rgb(26, 8, 8);
+	
+}
+
